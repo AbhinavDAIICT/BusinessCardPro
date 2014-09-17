@@ -1,0 +1,19 @@
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Business Card.dll
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Business Card.pdb
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\AppManifest.xaml
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\Bin\Debug\Business_Card_Debug_AnyCPU.xap
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\App.g.cs
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\MainPage.g.cs
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\Business Card.g.resources
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\Business_Card.Resources.AppResources.resources
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\Business Card.csproj.GenerateResource.Cache
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\Business Card.dll
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\Business Card.pdb
+c:\users\abhinav\documents\visual studio 2013\Projects\Business Card\Business Card\obj\Debug\XapCacheFile.xml
